@@ -31,4 +31,3 @@ def test_whitespace (stock_file):
     assert len(report_data['role']) == expected_role_length
     assert len(report_data['name']) == expected_name_length
 
-print(stock_file)
