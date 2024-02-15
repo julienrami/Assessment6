@@ -1,6 +1,5 @@
 import pandas as pd
 
-#refactor
 
 def remove_whitespace_from_columns(df, columns):
     """
