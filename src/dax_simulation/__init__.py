@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def remove_whitespace_from_columns(df, columns):
     """
     Remove leading and trailing whitespaces from specified columns in a DataFrame.
